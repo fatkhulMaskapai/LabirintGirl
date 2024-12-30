@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 0ae3b9de08baf9640a78057be068a5ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box
+    100002: Cube
+    100004: Cube.001
+    100006: Cube.002
+    100008: Cube.003
+    100010: Cube.004
+    100012: Cube.005
+    100014: Cube.006
+    100016: Cylinder
+    100018: Cylinder.001
+    100020: dorongan
+    100022: gerbang
+    100024: GERBANG2
+    100026: GERBANG2.001
+    100028: GERBANG2.002
+    100030: gudangkayu
+    100032: //RootNode
+    100034: kincir
+    100036: kursi
+    100038: pagar
+    100040: papan
+    100042: PINTU2
+    100044: Plane
+    100046: Sphere.003
+    100048: sumur
+    100050: TempatTidur
+    400000: Box
+    400002: Cube
+    400004: Cube.001
+    400006: Cube.002
+    400008: Cube.003
+    400010: Cube.004
+    400012: Cube.005
+    400014: Cube.006
+    400016: Cylinder
+    400018: Cylinder.001
+    400020: dorongan
+    400022: gerbang
+    400024: GERBANG2
+    400026: GERBANG2.001
+    400028: GERBANG2.002
+    400030: gudangkayu
+    400032: //RootNode
+    400034: kincir
+    400036: kursi
+    400038: pagar
+    400040: papan
+    400042: PINTU2
+    400044: Plane
+    400046: Sphere.003
+    400048: sumur
+    400050: TempatTidur
+    2100000: kayu2
+    2100002: tembok
+    2100004: tembokgelap
+    2100006: STONE
+    2100008: kayu
+    2100010: putih
+    2100012: kaca
+    2100014: genteng1
+    2100016: Barrel1
+    2100018: Barrel
+    2100020: kayu.001
+    2100022: Material
+    2100024: matdinding
+    2100026: matdinding.001
+    2100028: TREASUREBWH
+    2100030: treasureatas
+    2300000: Box
+    2300002: Cube
+    2300004: Cube.001
+    2300006: Cube.002
+    2300008: Cube.003
+    2300010: Cube.004
+    2300012: Cube.005
+    2300014: Cube.006
+    2300016: Cylinder
+    2300018: Cylinder.001
+    2300020: dorongan
+    2300022: gerbang
+    2300024: GERBANG2
+    2300026: GERBANG2.001
+    2300028: GERBANG2.002
+    2300030: gudangkayu
+    2300032: kincir
+    2300034: kursi
+    2300036: pagar
+    2300038: papan
+    2300040: PINTU2
+    2300042: Plane
+    2300044: Sphere.003
+    2300046: sumur
+    2300048: TempatTidur
+    3300000: Box
+    3300002: Cube
+    3300004: Cube.001
+    3300006: Cube.002
+    3300008: Cube.003
+    3300010: Cube.004
+    3300012: Cube.005
+    3300014: Cube.006
+    3300016: Cylinder
+    3300018: Cylinder.001
+    3300020: dorongan
+    3300022: gerbang
+    3300024: GERBANG2
+    3300026: GERBANG2.001
+    3300028: GERBANG2.002
+    3300030: gudangkayu
+    3300032: kincir
+    3300034: kursi
+    3300036: pagar
+    3300038: papan
+    3300040: PINTU2
+    3300042: Plane
+    3300044: Sphere.003
+    3300046: sumur
+    3300048: TempatTidur
+    4300000: Sphere.003
+    4300002: GERBANG2.002
+    4300004: GERBANG2.001
+    4300006: Cube
+    4300008: PINTU2
+    4300010: GERBANG2
+    4300012: gudangkayu
+    4300014: gerbang
+    4300016: Plane
+    4300018: TempatTidur
+    4300020: sumur
+    4300022: pagar
+    4300024: kursi
+    4300026: Box
+    4300028: kincir
+    4300030: papan
+    4300032: dorongan
+    4300034: Cylinder
+    4300036: Cube.002
+    4300038: Cube.001
+    4300040: Cube.004
+    4300042: Cube.003
+    4300044: Cube.005
+    4300046: Cube.006
+    4300048: Cylinder.001
+    7400000: Cube.006|buka
+    7400002: Cube.006|CubeAction
+    7400004: Cube.006|diam
+    7400006: Cube.006|terbuka
+    7400008: Cylinder.001|buka
+    7400010: Cylinder.001|CubeAction
+    7400012: Cylinder.001|diam
+    7400014: Cylinder.001|terbuka
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel
+    second: {fileID: 2100000, guid: 7a17e7ef813b1c645939692e170137fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barrel1
+    second: {fileID: 2100000, guid: 9bd358a2bd1f9bf4cbb5d7be37b29ae2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b2bd3cf61546a5c47bb9bd8772fb3d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: STONE
+    second: {fileID: 2100000, guid: c657bb8c2c9b3eb44a0b285a518d1292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TREASUREBWH
+    second: {fileID: 2100000, guid: 5cff068f22812814b8913e07d12131ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: genteng1
+    second: {fileID: 2100000, guid: 12ff139d538b47945a5bfbc0d402d7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kaca
+    second: {fileID: 2100000, guid: 7f43d6388c7559d4a880a533145a28ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu
+    second: {fileID: 2100000, guid: 1c6935c41a534ac47a4136e21af21051, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu.001
+    second: {fileID: 2100000, guid: 92f4168d11b64754f93ae5b3ce3f5c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu2
+    second: {fileID: 2100000, guid: f8c90010e4c41e843a5324aa4919000b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matdinding
+    second: {fileID: 2100000, guid: 0949a09b88914e345bd3642671549774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matdinding.001
+    second: {fileID: 2100000, guid: 0949a09b88914e345bd3642671549774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: putih
+    second: {fileID: 2100000, guid: f33b78b7f1a092447bf27dd61c6812e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tembok
+    second: {fileID: 2100000, guid: 70aa4106da4234041ad5c97303a597fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tembokgelap
+    second: {fileID: 2100000, guid: 1d643ad139181024aa752fbb2951d865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treasureatas
+    second: {fileID: 2100000, guid: 3518800562d63084aa580fdaff5bd5e9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: StoneWall1
+    second: {fileID: 2800000, guid: c73408af3621e224e9ab61222a2198e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TREASUREBAWAH
+    second: {fileID: 2800000, guid: 9b5dbc4910e3c2449bdc1e348792b8d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Treasureatas
+    second: {fileID: 2800000, guid: 6c23e1f688d60ab42ab94e370efaf242, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodRoofTiles
+    second: {fileID: 2800000, guid: ce73aa502b996c146b48a659414e81f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images
+    second: {fileID: 2800000, guid: 42518062aa77d4b43b9b9e3bb2e1f475, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kaca
+    second: {fileID: 2800000, guid: 32d9a4b42ad51c54a9ee3a115acc2feb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kayu1
+    second: {fileID: 2800000, guid: a972f1726c150bd43ba6f247249234da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamppost_diffuse
+    second: {fileID: 2800000, guid: 33ffd222396289146b1e5481eb111d8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oldwood
+    second: {fileID: 2800000, guid: 48e1dd90f6f47254b806ec0037a79a11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tembok
+    second: {fileID: 2800000, guid: 9e57faf059ff72542869e6540eecc406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weathered-wood-background-7
+    second: {fileID: 2800000, guid: 5979bd15cd52c4645bf77b2e8591091d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

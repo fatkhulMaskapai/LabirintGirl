@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 9804ab9554634f04c964d172d4c5f0a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: ArmLower.L
+    100004: ArmLower.L.001
+    100006: armUpper.L
+    100008: armUpper.L.001
+    100010: Bone.003
+    100012: Bone.003_end
+    100014: controller
+    100016: Cube
+    100018: elbowIk.L
+    100020: elbowIk.L.001
+    100022: elbowIk.L.001_end
+    100024: elbowIk.L_end
+    100026: foot.L
+    100028: foot.L.001
+    100030: foot.L.001_end
+    100032: foot.L_end
+    100034: footIk.L
+    100036: footIk.L.001
+    100038: footIk.L.001_end
+    100040: footIk.L_end
+    100042: //RootNode
+    100044: hand.L
+    100046: hand.L.001
+    100048: hand.L.001_end
+    100050: hand.L_end
+    100052: handik.L
+    100054: handik.L.001
+    100056: handik.L.001_end
+    100058: handik.L_end
+    100060: hips
+    100062: KneeIk.L
+    100064: KneeIk.L.001
+    100066: KneeIk.L.001_end
+    100068: KneeIk.L_end
+    100070: leglower.L
+    100072: leglower.L.001
+    100074: legupper.L
+    100076: legupper.L.001
+    100078: pelvis
+    100080: ribs
+    100082: shoulder.L
+    100084: shoulder.L.001
+    100086: spy
+    400000: Armature
+    400002: ArmLower.L
+    400004: ArmLower.L.001
+    400006: armUpper.L
+    400008: armUpper.L.001
+    400010: Bone.003
+    400012: Bone.003_end
+    400014: controller
+    400016: Cube
+    400018: elbowIk.L
+    400020: elbowIk.L.001
+    400022: elbowIk.L.001_end
+    400024: elbowIk.L_end
+    400026: foot.L
+    400028: foot.L.001
+    400030: foot.L.001_end
+    400032: foot.L_end
+    400034: footIk.L
+    400036: footIk.L.001
+    400038: footIk.L.001_end
+    400040: footIk.L_end
+    400042: //RootNode
+    400044: hand.L
+    400046: hand.L.001
+    400048: hand.L.001_end
+    400050: hand.L_end
+    400052: handik.L
+    400054: handik.L.001
+    400056: handik.L.001_end
+    400058: handik.L_end
+    400060: hips
+    400062: KneeIk.L
+    400064: KneeIk.L.001
+    400066: KneeIk.L.001_end
+    400068: KneeIk.L_end
+    400070: leglower.L
+    400072: leglower.L.001
+    400074: legupper.L
+    400076: legupper.L.001
+    400078: pelvis
+    400080: ribs
+    400082: shoulder.L
+    400084: shoulder.L.001
+    400086: spy
+    2100000: matgolem1
+    4300000: Cube
+    7400000: Armature|Diam
+    7400002: Armature|Jalan
+    7400004: Armature|Mati
+    7400006: Armature|PoseLib
+    7400008: Armature|Serang
+    7400010: Armature|Serang2
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matgolem1
+    second: {fileID: 2100000, guid: 51605f3ebfd876140978f47aa4782c66, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bakegolem
+    second: {fileID: 2800000, guid: 0db622b666a53494791a170d737b77de, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Diam
+      takeName: Armature|Diam
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Jalan
+      takeName: Armature|Jalan
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Mati
+      takeName: Armature|Mati
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Serang
+      takeName: Armature|Serang
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Serang2
+      takeName: Armature|Serang2
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
